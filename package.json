@@ -9,7 +9,7 @@
 
   },
   "dependencies": {
-    "convert-base64-to-image": "^0.0.15",
+    "convert-base64-to-image": "^0.0.16",
     "express": "^4.17.2",
     "typescript": "^4.5.4"
   },
